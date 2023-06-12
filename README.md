@@ -1,2 +1,2 @@
 # photography-website
- Website for Victor Mulli @Sauce Africa
+ Website for Victor Muli
